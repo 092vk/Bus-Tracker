@@ -1,5 +1,5 @@
 # TIMMY 
-## A chatbot for a cloud kitchen / restaurant
---> Timmy is a friendly chatbot perfect for a cloud kitchen / restaurant website .
+## A Perfect chatbot for a cloud kitchen / restaurant business
+--> Timmy is a friendly chatbot , that can take order , resolve customer queries , and other things.
 
 --> Work is in Progress , Timmy would be soon live .......
